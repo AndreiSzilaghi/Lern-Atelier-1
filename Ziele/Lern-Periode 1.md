@@ -37,11 +37,11 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] ILA Tag zwei abzuschliessen
-- [ ] Anfangen Selbstständig an die Module zu arbeiten
-- [ ] Eine Mission von einem Modul fertig zu machen
+- [X] ILA Tag zwei abzuschliessen
+- [X] Anfangen Selbstständig an die Module zu arbeiten
+- [X] Eine Mission von einem Modul fertig zu machen
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich die Aufgaben von ILA Tag zwei abgeschlossen, Mission 5 und Mission 6 vom Modul 319 fertig gemacht und ein bisschen am Modul 431 weitergemacht. Mission 5 war einfach aber Mission 6 war für mich ein bisschen schwieriger. Ich brauchte auch viel mehr Zeit für Mission 6 als für 5.)
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+(In dieser Lernperiode habe ich die ILA Aufgaben fertig gemacht, wie Github und Git Bash konfiguriert und damit gearbeitet. Ich habe auch Visual Studio Code installiert und ihm mit das Repository von Github verbunden mit dem Push und Pull model. Ich fangte auch an, selbstständig an die Module weiter zu arbeiten. Ich machte die Missionen 5 und 6 vom Modul 319 und fangte ein bisschen an mit dem Modul 431. Ich hatte auch ein paar Schwierigkeiten, was führten dass ich für ein paar Aufgaben viel Zeit brauchte. Aber jetzt habe ich keine Schwierigkeiten mehr. Ich finde diese Lernperiode ging für mich recht gut.)

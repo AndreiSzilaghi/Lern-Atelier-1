@@ -31,7 +31,7 @@ Einrichtung und Aufgaben von Github fertig machen
 - [X] Die zwei Präsentationen von die QV und LBs fertig zu lesen und verstehen
 
 (Heute habe ich Git Bash konfiguriert, Visual Studio Code installiert, das Repository vom GitHub geklont, mit Push und Pull GitHub und Visual Studio Code abgeglichen
-und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Schwierigkeiten beim GitHub und Visual Studio Code, aber jetzt funktioniert es.
+und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Schwierigkeiten beim GitHub und Visual Studio Code, aber jetzt funktioniert es.)
 
 
 ### Planung 28.08.2026

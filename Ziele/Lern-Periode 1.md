@@ -48,7 +48,7 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] 1706 vom Modul 431 fertig machen
-- [ ] Die Präsentation 1764 "IPERKA" durchlesen und richtig verstehen
+- [X] Die Präsentation 1764 "IPERKA" durchlesen und richtig verstehen
 - [ ] mit 1708 anfangen
 
 

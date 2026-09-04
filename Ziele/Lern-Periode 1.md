@@ -1,7 +1,7 @@
 # Lern-Periode 1
 
 - Name: Andrei Szilaghi
-- Zeitraum: 21.08.2026 bis 28.09.2026
+- Zeitraum: 21.08.2026 bis 28.08.2026
 
 ## Grob-Planung
 Ich möchte fertig sein mit die Aufgaben vom Lernatelier und dass ich nachher selbstständig arbeiten kann.

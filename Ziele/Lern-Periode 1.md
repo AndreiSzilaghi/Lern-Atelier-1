@@ -49,7 +49,7 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 
 - [X] 1706 vom Modul 431 fertig machen
 - [X] Die Präsentation 1764 "IPERKA" durchlesen und richtig verstehen
-- [ ] mit 1708 anfangen
+- [X] 1708 fertig machen
 
 
 

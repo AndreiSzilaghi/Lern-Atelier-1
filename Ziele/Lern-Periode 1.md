@@ -51,7 +51,7 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 - [X] Die Präsentation 1764 "IPERKA" durchlesen und richtig verstehen
 - [X] 1708 fertig machen
 
-
+(Heute habe ich die Aufgabe 1706 und die Aufgaben 1708 vom Modul 431 fertig gemacht. Ich habe auch noch die Präsentationen 1764 "IPERKA" und 1765 "Planen" fertig gelesen und verstanden. Ich fing auch an mit die Aufgabe 1709. Ich habe auch gemerkt dass ich die Planung auf GitHub nicht richtig machte, also haben ich es verbessert.)
 
 
 ## Lernperiode Reflexion

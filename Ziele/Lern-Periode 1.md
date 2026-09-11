@@ -54,7 +54,7 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 (Heute habe ich die Aufgabe 1706 und die Aufgaben 1708 vom Modul 431 fertig gemacht. Ich habe auch noch die Präsentationen 1764 "IPERKA" und 1765 "Planen" fertig gelesen und verstanden. Ich fing auch an mit die Aufgabe 1709. Ich habe auch gemerkt dass ich die Planung auf GitHub nicht richtig machte, also haben ich es verbessert.)
 
 
-### Planung 04.09.2026
+### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [] Mission 7 von Modul 319 fertig machen.

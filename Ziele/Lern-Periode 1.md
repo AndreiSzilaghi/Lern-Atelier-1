@@ -57,10 +57,10 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Mission 7 von Modul 319 fertig machen.
-- [] Eigenes Projekt starten
-- [] C-sharp Buch Kapitel 1 lesen
+- [X] Mission 7 von Modul 319 fertig machen.
+- [X] Eigenes Projekt starten
+- [X] C-sharp Buch Kapitel 1 lesen
 
-()
+(Ich habe diese Lernatelier Periode Mission 7 vom Modul 319 fertig gemacht, ein eigenes Projekt starten und das Kapitel 1 vom C-sharp buch gelesen. Am meisten Zeit brauchte ich für Mission 7, weil es eher lang war, aber es war nicht sehr schwer.)
 ## Lernperiode Reflexion
 ( )

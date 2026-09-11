@@ -59,7 +59,7 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 
 - [] Mission 7 von Modul 319 fertig machen.
 - [] Eigenes Projekt starten
-- [] C-sharp Buch anschauen
+- [] C-sharp Buch Kapitel 1 lesen
 
 ()
 ## Lernperiode Reflexion

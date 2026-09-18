@@ -67,9 +67,9 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Mission 8 von Modul 319 fertig machen.
-- [ ] 
-- [ ] 
+- [X] Mission 8 von Modul 319 fertig machen.
+- [X] Eigenes Projekt machen.
+- [X] 1712 von Modul 431 fertig machen. 
 
 ()
 

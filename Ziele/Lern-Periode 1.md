@@ -73,5 +73,16 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 
 (Ich wurde heute mit die Mission 8 von Modul 319 fertig, ich habe auch noch 1712 vom Modul 431 fertig gemacht und auch noch einen kleinen Projekt gemacht. Mission 8 war ein bisschen schwieriger für mich, also dauerte es mehr für mich um es fertig zu machen.)
 
+
+### Planung 15.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Mission 9 von Modul 319 fertig machen.
+- [ ] 1715 von Modul 431 fertig machen.
+- [ ] 1716 von Modul 431 fertig machen.
+
+()
+
+
 ## Lernperiode Reflexion
 ( )

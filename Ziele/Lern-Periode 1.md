@@ -78,11 +78,11 @@ und die zwei Präsentationen für QV und LBs gelesen. Ich hatte noch ein paar Sc
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Mission 9 von Modul 319 fertig machen.
-- [ ] 1715 von Modul 431 fertig machen.
-- [ ] 1716 von Modul 431 fertig machen.
+- [X] Mission 10 von Modul 319 fertig machen. 
+- [X] Modul 319 eine Rückmeldung schicken.
 
-()
+(Heute habe ich die Mission 9 und 10 fertig gemacht. Mission 9 hatte länger gebraucht als 10. Weil Mission 10 das letzte war aus dem Modul 319 würde ich also fertig damit. Am schluss des Moduls hatte es noch eine Rückmeldung was man machen kann, das habe ich auch noch gemacht.)
 
 
 ## Lernperiode Reflexion
-( )
+(In diese Lernperiode habe ich vieles neues gelernt. Wie am Anfang wie man mit GitHub umgeht und wie man Dateien sortiert bis zu richtig programmieren beim Modul 319. Ich hatte mehr an programmieren vom 319 gearbeitet, weil es für mich mehr spass macht und auch weil meine Lehrperson von 431 selber gesagt hat, dass ich in ILA lieber programmieren sollte. Ich hatte aber auch an 431 gearbeitet aber nicht sehr viel. Ein paarmal hatte ich auch Schwierigkeiten beim Modul 319, also dauerte es auch vielleicht ein bisschen mehr als andere. Ich konnte aber jetzt alle verstehen und auch richtig lösen. Ich selber habe das Gefühl dass ich schon gut arbeitete während ILA und auch das ich meine Ziele erreichen konnte. Am Anfang muss ich aber immer ein bisschen überlegen was ich für Ziele stelle.)

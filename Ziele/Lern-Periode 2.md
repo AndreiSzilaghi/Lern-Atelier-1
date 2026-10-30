@@ -8,28 +8,15 @@
 ## Grob-Planung
 Ein paar Projekte machen und weiter an die Module arbeiten 
 ### Noten
-<!--
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
-in welchen sind die ungenügend? Welche davon sind besonders wichtig?
--->
+Modul 319: 5.2
 
-...Ihr Text...
 
 ### Veränderungen
-<!--
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
--->
 
-...Ihr Text...
+
 
 ### Projekte / neue Technologien
-<!--
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-Verlinken Sie zu den GitHub Repos Ihrer Projekte.
-(Können Sie später nach und nach einfügen.)
--->
 
-...Ihr Text...
 
 ### Generelle Ziele
 <!--

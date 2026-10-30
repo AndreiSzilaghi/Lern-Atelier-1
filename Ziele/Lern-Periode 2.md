@@ -1,25 +1,9 @@
-# Lern-Periode NR
-<!--
-**ANLEITUNG**
+# Lern-Periode 2
 
-Dies ist die Vorlage für die Dokumentation einer Lernperiode. Hinweise an Sie
-als Lernende:n stehen in solchen HTML-Kommentaren. Sie sind nur in der
-Quellcode-Ansicht sichtbar.
-Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 
-1.  Passen Sie die Nummer der Lernperiode an.
-2.  Passen Sie den Namen an.
-3.  Passen Sie den Zeitraum an. Achten Sie auf das Datumsformat tt.mm.jjjj
-4.  Füllen Sie die Grobplanung aus in den Abschnitten Noten, Veränderungen,
-    Projekte und Generelle Ziele. Behalten Sie alle Abschnitte bei.
-5.  Erstellen Sie Platzhalter für die Tagesplanungen der Lernperiode.
-6.  Planen Sie den ersten Arbeitstag.
-7.  Löschen Sie allfällige Anweisungs-Blöcke, die Sie nicht mehr haben wollen.
-8.  Speichern Sie die Datei und publizieren Sie sie (`git push`).
--->
 
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Name: Andrei Szilaghi
+- Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
 

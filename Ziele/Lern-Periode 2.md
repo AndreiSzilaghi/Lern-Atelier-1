@@ -6,7 +6,7 @@
 - Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
-
+Ein paar Projekte machen und weiter an die Module arbeiten 
 ### Noten
 <!--
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;

@@ -19,35 +19,15 @@ Modul 319: 5.2
 
 
 ### Generelle Ziele
-<!--
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
--->
-
-...Ihr Text...
+An die neuen Module arbeiten
 
 ## Tagesplanungen
-<!--
-Planen Sie die Lernperiode. Dazu planen Sie Arbeitspakete (jeweils für den
-kommenden Arbeitstag) und erstellen am Ende jedes Tages eine kurze Reflexion.
 
-Wenn Sie an einem Tag gefehlt haben, schreiben Sie direkt unter die
-Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
-absence, absent, Absenz, abwesend, krank, Krankheit.
--->
 
-### Planung tt.mm.jjjj
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
+### Planung 30.10.2026
 
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] einen eigenen Project machen.
+- [ ] 
 - [ ] ...Ihr Text...
 
 

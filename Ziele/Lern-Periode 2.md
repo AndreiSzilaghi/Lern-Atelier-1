@@ -16,44 +16,40 @@ Modul 319: 5.2
 
 
 ### Projekte / neue Technologien
-
+Gym-Manager
 
 ### Generelle Ziele
-An die neuen Module arbeiten
+An die neuen Module arbeiten 
 
 ## Tagesplanungen
 
 
 ### Planung 30.10.2026
 
-- [ ] einen eigenen Project machen.
-- [ ] 
-- [ ] ...Ihr Text...
+- [X] einen neuen Projekt starten.
+- [X] erste Versionen vom Projekt testen.
+- [X] Projekt verbessern
 
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
-...Ihr Text...
+Heute habe ich einen neuen Projekt gestartet. Ich weiss nicht ganz genau ob man das einen Projekt nennen kann, aber ich wollte Counter Strike 2 mit KI generieren lassen. Ich machte es mit Chatgpt, was recht gut ging. Die ersten Versionen waren recht basic aber nachdem ich ihm gesagt habe was er verbessern muss wurde es recht gut.
 
 
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
+### Planung 6.11.2026
+
+- [X] an meinen Projekt weitermachen.
+- [X] an den Gym-Manager weiter arbeiten und die Anforderungsanalyse fertig haben
+- [X] Die Aufgabe 1721 von Modul 162 fertig machen
+
+
+#### Tagesreflexion
+
+
 
 ## Lernperiode Reflexion
-<!--
-Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
-Mögliche Themen: Wie gut passt Ihr Endresultat zu dem, was Sie sich vorgenommen
-hatten? Unterm Strich, was ist Ihr grösstes Lernresultat? Was nehmen Sie für die
-Zukunft mit aus dieser Lernperiode?
-Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
--->
+
+
 
 ...Ihr Text...
 

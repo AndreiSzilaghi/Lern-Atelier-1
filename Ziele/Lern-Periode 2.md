@@ -45,7 +45,7 @@ Heute habe ich einen neuen Projekt gestartet. Ich weiss nicht ganz genau ob man 
 
 #### Tagesreflexion
 
-
+Heute habe ich an meinen Projekt weiter gearbeitet. Ich habe es dies mal claude geschickt zum verbessern weil chatgpt nicht unbedingt die modelle besser machte. Ich habe auch noch an den Gym-Manager gearbeitet und die Aufgabe 1721 fertig gemacht.
 
 ## Lernperiode Reflexion
 

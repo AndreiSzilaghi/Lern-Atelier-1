@@ -8,7 +8,7 @@
 ## Grob-Planung
 Ein paar Projekte machen und weiter an die Module arbeiten 
 ### Noten
-Modul 319: 5.2
+Modul 319 (OBA): 5.2
 
 
 ### Veränderungen

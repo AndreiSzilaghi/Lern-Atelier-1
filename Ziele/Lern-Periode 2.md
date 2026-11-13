@@ -47,9 +47,18 @@ Heute habe ich einen neuen Projekt gestartet. Ich weiss nicht ganz genau ob man 
 
 Heute habe ich an meinen Projekt weiter gearbeitet. Ich habe es dies mal claude geschickt zum verbessern weil chatgpt nicht unbedingt die modelle besser machte. Ich habe auch noch an den Gym-Manager gearbeitet und die Aufgabe 1721 fertig gemacht.
 
+
+
+### Planung 13.11.2026
+
+- [X] an Gym-Manager mit Gruppe weiterarbeiten  
+- [ ] 
+- [ ] Die Aufgabe 1731 von Modul 162 fertig machen
+
+
 ## Lernperiode Reflexion
 
 
 
-...Ihr Text...
+
 

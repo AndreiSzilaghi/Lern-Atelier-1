@@ -52,9 +52,12 @@ Heute habe ich an meinen Projekt weiter gearbeitet. Ich habe es dies mal claude 
 ### Planung 13.11.2026
 
 - [X] an Gym-Manager mit Gruppe weiterarbeiten  
-- [ ] 
-- [ ] Die Aufgabe 1731 von Modul 162 fertig machen
+- [X] Bei C# Kurs auf W3 Schools begonnen und die ersten Sachen abgeschlossen 
+- [X] Die Aufgabe 1731 von Modul 162 fertig machen
 
+#### Tagesreflexion
+
+Heute habe ich mit meine Gruppe beim Gym-Manager weitergearbeitet und haben ein paar neue Funktionen hinzugefügt oder einfach den Code verbessern. Ich wurde auch noch mit die Aufgabe 1731 von Modul 162 fertig und habe auch noch mit Lias im W3 Schools beim C# Kurs gearbeitet.
 
 ## Lernperiode Reflexion
 

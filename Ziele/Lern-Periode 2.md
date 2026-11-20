@@ -26,26 +26,26 @@ An die neuen Module arbeiten
 
 ### Planung 30.10.2026
 
-- [X] einen neuen Projekt starten.
-- [X] erste Versionen vom Projekt testen.
-- [X] Projekt verbessern
+- [X] Die Aufgabe 1712 von Modul 162 fertig machen
+- [X] Die Aufgabe 1713 von Modul 162 fertig machen
+- [X] Mit Lias C# Video anschauen
 
 
 #### Tagesreflexion
 
-Heute habe ich einen neuen Projekt gestartet. Ich weiss nicht ganz genau ob man das einen Projekt nennen kann, aber ich wollte Counter Strike 2 mit KI generieren lassen. Ich machte es mit Chatgpt, was recht gut ging. Die ersten Versionen waren recht basic aber nachdem ich ihm gesagt habe was er verbessern muss wurde es recht gut.
+Heute habe ich die Aufgabe 1712 und Aufgabe 13 fertig gemacht. Ich habe sie auch noch ein bisschen genauer angeschaut weil ich es nicht perfekt verstanden habe, aber jetzt verstehe ich es. Ich habe auch noch mit Lias ein Video über die Grundlagen von C# angeschaut.
 
 
 ### Planung 6.11.2026
 
-- [X] an meinen Projekt weitermachen.
-- [X] an den Gym-Manager weiter arbeiten und die Anforderungsanalyse fertig haben
+- [X] die Anforderungsanalyse für den Gym-Manager Projekt fertig machen.
+- [X] an den Gym-Manager anfangen zu programmieren
 - [X] Die Aufgabe 1721 von Modul 162 fertig machen
 
 
 #### Tagesreflexion
 
-Heute habe ich an meinen Projekt weiter gearbeitet. Ich habe es dies mal claude geschickt zum verbessern weil chatgpt nicht unbedingt die modelle besser machte. Ich habe auch noch an den Gym-Manager gearbeitet und die Aufgabe 1721 fertig gemacht.
+Heute habe ich an den Gym-Manager Projekt weiter gearbeitet und die Aufgabe 1721 von Modul 162 fertig gemacht. Ich habe die Anforderungsanalyse für den Gym-Manager gemacht und habe auch noch angefangen dafür programmieren. Die Aufgabe 1721 habe ich auch noch gemacht das ich im Modul nicht hintendran bin.
 
 
 
@@ -58,6 +58,18 @@ Heute habe ich an meinen Projekt weiter gearbeitet. Ich habe es dies mal claude 
 #### Tagesreflexion
 
 Heute habe ich mit meine Gruppe beim Gym-Manager weitergearbeitet und haben ein paar neue Funktionen hinzugefügt oder einfach den Code verbessern. Ich wurde auch noch mit die Aufgabe 1731 von Modul 162 fertig und habe auch noch mit Lias im W3 Schools beim C# Kurs gearbeitet.
+
+
+
+### Planung 20.11.2026
+
+- [ ] Aufgabe 1724 von Modul 162 fertig machen
+- [ ] Aufgabe 1741 von Modul 162 fertig machen
+- [ ] Weiter mit gruppe an Gym-Manager arbeiten
+
+#### Tagesreflexion
+
+
 
 ## Lernperiode Reflexion
 

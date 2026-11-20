@@ -63,12 +63,12 @@ Heute habe ich mit meine Gruppe beim Gym-Manager weitergearbeitet und haben ein 
 
 ### Planung 20.11.2026
 
-- [ ] Aufgabe 1724 von Modul 162 fertig machen
+- [X] Aufgabe 1724 von Modul 162 fertig machen
 - [ ] Aufgabe 1741 von Modul 162 fertig machen
-- [ ] Weiter mit gruppe an Gym-Manager arbeiten
+- [X] Weiter mit gruppe an Gym-Manager arbeiten
 
 #### Tagesreflexion
-
+Heute habe ich mit meine Gruppe den Gym-Manager fertig gemacht. Jetzt können wir noch Qualitativen Bedingungen hinzufügen um es verbessern. Ich konnte auch noch 1724 fertig machen aber leider 1741 nicht.
 
 
 ## Lernperiode Reflexion

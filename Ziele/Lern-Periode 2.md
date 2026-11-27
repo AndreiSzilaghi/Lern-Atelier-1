@@ -74,12 +74,12 @@ Heute habe ich mit meine Gruppe den Gym-Manager fertig gemacht. Jetzt können wi
 
 ### Planung 27.11.2026
 
-- [ ] Gym Projekt letzte Verbesserung machen
-- [ ] Gym Projekt Präsentation machen
-- [ ] Aufgabe 1742 von Modul 162 fertig machen
+- [X] Gym Projekt letzte Verbesserung machen
+- [X] Gym Projekt Präsentation machen
+- [X] Aufgabe 1742 von Modul 162 fertig machen
 
 #### Tagesreflexion
-
+Heute habe ich mit meine Gruppe noch die letzten Verbesserungen für unseren Projekt gemacht und auch noch die Präsentation für die nächste Woche, sodass wir noch während den Wochenende es verbessern können wenn nötig. Ich wurde auch noch mit die Aufgabe 1742 von Modul 162 heute fertig.  
 
 
 ## Lernperiode Reflexion

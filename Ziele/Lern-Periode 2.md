@@ -71,6 +71,17 @@ Heute habe ich mit meine Gruppe beim Gym-Manager weitergearbeitet und haben ein 
 Heute habe ich mit meine Gruppe den Gym-Manager fertig gemacht. Jetzt können wir noch Qualitativen Bedingungen hinzufügen um es verbessern. Ich konnte auch noch 1724 fertig machen aber leider 1741 nicht.
 
 
+
+### Planung 27.11.2026
+
+- [ ] Gym Projekt letzte Verbesserung machen
+- [ ] Gym Projekt Präsentation machen
+- [ ] Aufgabe 1742 von Modul 162 fertig machen
+
+#### Tagesreflexion
+
+
+
 ## Lernperiode Reflexion
 
 
